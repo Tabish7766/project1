@@ -1,0 +1,124 @@
+body{
+  background-image: url(https://biozyme.muscleblaze.com/assets/images/banner-bg.jpg);
+}
+/* div{
+  /* background-color: #333; */
+
+ul {
+    list-style-type: none;
+    margin-top:-54px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-left: 185px;
+    position: relative;
+    
+    
+  }
+  
+  li {
+    float: left;
+
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .mblogo{
+    padding: 12px;
+    background-color: #333;
+    height: 23px;
+    width: 162px;
+  
+  }
+.h1{
+  background-color: white;
+  text-align: center;
+  /* padding: 2px; */
+  font-size: 10px;
+  height: 35px;
+  margin-top:-20px ;
+
+  width: 100%;
+}
+.Banner{
+  width: 100%;
+
+}
+.marquee{
+  height: 100px;
+  width: 200px;
+  /* padding: 30px; */
+  /* margin: 30; */
+
+}
+.Goal{
+  /* background-color: grey; */
+  height: 500px;
+  width: 100%;
+  margin-top:60px;
+  /* text-align: center; */
+}
+.Goal h1{
+  font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  /* font-family: dinbold; */
+}
+.Goal p{
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  line-height: 32px;
+  font-weight: 400px;
+  font-weight: bolder;
+
+}
+.col{
+  text-align: center;
+  width: 20%;
+  height: 200px;
+  background-color: white;
+  position: relative;
+  border: 2px solid;
+  border-radius: 20px;
+  /* position: absolute; */
+}
+.col img{
+  width: 200px;
+  height:200px;
+}
+.Table{
+  margin-left: 230px;
+  /* background-color: grey; */
+  width: 1033px;
+  border-radius: 20px;
+}
+.level img{
+  height: 300px;
+  weight: 300px
+}
+.tr{
+  display: inline-block;
+  margin-left: 200px;
+}
+.brand img {
+width: 600px;
+margin-left: 20px;
+}
+.brand{
+  text-align: center;
+}
+.brand h1{
+  color: white;
+  font-size: 50px;
+}

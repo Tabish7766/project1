@@ -1,0 +1,39 @@
+.sub{
+    background-color: white;
+    color: navy;
+    margin: 25px;
+    padding: 10px;
+    width: 60%;
+    border-radius: 20px;
+    border: 5px solid blueviolet;
+}
+.bulboff{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 100%;
+    background-color: grey;
+    margin-left: 300px;
+}
+.bulbon{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 100%;
+    background-color: yellow;
+    margin-left: 300px;
+}
+/* h1{
+    background-color: blueviolet;
+    padding: 10px;
+    border-top-right-radius: 75px;
+    border-bottom-left-radius: 75px;
+    text-align: center;
+    color: chartreuse;
+
+} */
+.btn{
+    position: relative;
+    top: 80px;
+    left:60px;
+}
